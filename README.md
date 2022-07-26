@@ -14,8 +14,11 @@ View and control your connected smart devices. Dim the lights, lock the doors, a
 - Music Player
 
 ---
----
-https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Videos/Demo.mp4
+
+
+https://user-images.githubusercontent.com/89747407/181090423-704ea4e4-3f7e-4d34-b8a5-a9479d932635.mp4
+
+
 ---
 ![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Images/1.png)
 ---
