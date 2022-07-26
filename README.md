@@ -12,3 +12,21 @@ View and control your connected smart devices. Dim the lights, lock the doors, a
 - Secure the smart alarm before heading out
 - PIN Protected
 - Music Player
+
+---
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Videos/Demo.mp4)
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Images/1.png)
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Images/2.png)
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Images/3.png)
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Images/4.png)
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Images/5.png)
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Images/6.png)
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Images/7.png)
