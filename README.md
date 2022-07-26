@@ -15,7 +15,7 @@ View and control your connected smart devices. Dim the lights, lock the doors, a
 
 ---
 ---
-![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Videos/Demo.mp4)
+https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Videos/Demo.mp4
 ---
 ![Tilted](https://github.com/AmirhoseinMasoumi/LiveSmart/blob/main/Assets/Images/1.png)
 ---
