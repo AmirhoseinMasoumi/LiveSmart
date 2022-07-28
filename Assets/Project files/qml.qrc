@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PasswordPage.qml</file>
+        <file>MusicPage.qml</file>
+        <file>SecurityPage.qml</file>
+        <file>TemperatourePage.qml</file>
+        <file>HomePage.qml</file>
+        <file>DevicesPage.qml</file>
+        <file>MembersPage.qml</file>
+        <file>SettingDialoge.qml</file>
+        <file>HelpDialog.qml</file>
+    </qresource>
+</RCC>
